@@ -57,7 +57,7 @@ int loadCSV(const char *filename, WaveformSample **samples)
 
 
         // Parse the CSV line into struct fields
-        scanf(line,
+        sscanf(line,
                "%lf,%lf,%lf,%lf,%lf,%lf,%lf,%lf",
                &((*samples)[count].timestamp),
                &((*samples)[count].phaseA),
@@ -68,6 +68,8 @@ int loadCSV(const char *filename, WaveformSample **samples)
                &((*samples)[count].powerFactor),
                &((*samples)[count].thd)
         );
+// I did this too see if my csv file is being found
+        printf("sample %d: %lf\n",count,(*samples)[count].phaseA);
 
         // Move to the next sample
         count++;
