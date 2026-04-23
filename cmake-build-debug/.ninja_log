@@ -1,13 +1,10 @@
 # ninja log v5
-1	370	7986519898154062	build.ninja	c3df9fbc11309786
-15	501	7986520931179775	CMakeFiles/PowerQualityAnalyzer.dir/waveform.c.obj	a8794a056a75e233
+1	5921	7986581854704554	build.ninja	c3df9fbc11309786
 1	510	7986520931179775	CMakeFiles/PowerQualityAnalyzer.dir/main.c.obj	1d47c91d84b5bdfc
-30	514	7986520931244795	CMakeFiles/PowerQualityAnalyzer.dir/io.c.obj	1fc92b4bc2b99c75
-514	962	7986520935761914	PowerQualityAnalyzer.exe	fd4805121360c0b2
-15	461	7986553467454913	CMakeFiles/PowerQualityAnalyzer.dir/io.c.obj	1fc92b4bc2b99c75
-30	466	7986553467454913	CMakeFiles/PowerQualityAnalyzer.dir/waveform.c.obj	a8794a056a75e233
-467	902	7986553471853802	PowerQualityAnalyzer.exe	fd4805121360c0b2
-15	471	7986555065754538	CMakeFiles/PowerQualityAnalyzer.dir/waveform.c.obj	a8794a056a75e233
-15	791	7986555187130538	CMakeFiles/PowerQualityAnalyzer.dir/waveform.c.obj	a8794a056a75e233
-16	842	7986555645562649	CMakeFiles/PowerQualityAnalyzer.dir/waveform.c.obj	a8794a056a75e233
 14	387	7986555825129676	CMakeFiles/PowerQualityAnalyzer.dir/waveform.c.obj	a8794a056a75e233
+15	772	7986575115268914	PowerQualityAnalyzer.exe	fd4805121360c0b2
+15	461	7986553467454913	CMakeFiles/PowerQualityAnalyzer.dir/io.c.obj	1fc92b4bc2b99c75
+45	401	7986582188279240	CMakeFiles/untitled.dir/io.c.obj	6df9d6d21e4a13a7
+1	407	7986582188279240	CMakeFiles/untitled.dir/waveform.c.obj	fb2ad65372384c1c
+29	412	7986582188388083	CMakeFiles/untitled.dir/main.c.obj	58d66b145f720791
+412	830	7986582192544616	untitled.exe	aa93ff4bbaf6cd60
